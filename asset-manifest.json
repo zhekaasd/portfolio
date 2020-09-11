@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e4fe8ad2.chunk.css",
+    "main.js": "/portfolio/static/js/main.25a01319.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.25a01319.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.8b5bfc9e.chunk.js": "/portfolio/static/js/2.8b5bfc9e.chunk.js",
+    "static/js/2.8b5bfc9e.chunk.js.map": "/portfolio/static/js/2.8b5bfc9e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.85d374d83e2e41a206e48f6a756b450d.js": "/portfolio/precache-manifest.85d374d83e2e41a206e48f6a756b450d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.e4fe8ad2.chunk.css.map": "/portfolio/static/css/main.e4fe8ad2.chunk.css.map",
+    "static/js/2.8b5bfc9e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8b5bfc9e.chunk.js.LICENSE.txt",
+    "static/media/burger-king-logo-png--500.png": "/portfolio/static/media/burger-king-logo-png--500.f847b691.png",
+    "static/media/chip_protsessor_mikroshema_145282_800x600.jpg": "/portfolio/static/media/chip_protsessor_mikroshema_145282_800x600.dd3f909f.jpg",
+    "static/media/facebook.svg": "/portfolio/static/media/facebook.c0cd1382.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.b1c58ee1.svg",
+    "static/media/kinopoisk.ru-Logan-29156492222.jpg": "/portfolio/static/media/kinopoisk.ru-Logan-29156492222.6e333b6b.jpg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.182d5ef4.svg",
+    "static/media/whatsapp (2).svg": "/portfolio/static/media/whatsapp (2).8671d88f.svg",
+    "static/media/znaki_voprosa_3d_formy_112826_800x600.jpg": "/portfolio/static/media/znaki_voprosa_3d_formy_112826_800x600.edeaabc1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.8b5bfc9e.chunk.js",
+    "static/css/main.e4fe8ad2.chunk.css",
+    "static/js/main.25a01319.chunk.js"
+  ]
+}
