@@ -1,0 +1,20 @@
+.headerContainer {
+  min-height: 80px;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  flex-wrap: wrap;
+
+  & img {
+    height: 65px;
+    margin-left: 5px;
+  }
+}
+
+@media screen and (max-width: 528px) {
+  .headerContainer {
+    justify-content: center;
+  }
+}

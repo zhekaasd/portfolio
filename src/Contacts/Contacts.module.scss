@@ -1,0 +1,85 @@
+.contactsBlock {
+  padding: 100px 0;
+
+
+  .contactsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+
+
+    .wrapperContacts {
+      flex-direction: column;
+      justify-content: flex-start;
+      width: 75%;
+      display: flex;
+      align-items: center;
+      position: relative;
+
+
+      .contactsForm {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+
+        & input, & textarea {
+          width: 100%;
+          margin: 10px 0;
+          border: 1px solid #4a4a4a;
+          background-color: #252527;
+          padding: 10px 0 10px 10px;
+
+
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 1.8;
+          font-family: Poppins, sans-serif;
+        }
+
+        & input{
+          height: 20px;
+        }
+
+        & textarea {
+          height: 120px;
+        }
+
+        & button {
+          color: white;
+          margin: 50px 0 0 0;
+          background-color: #252527;
+          padding: 15px;
+          text-transform: uppercase;
+          border: 1px solid slategray;
+        }
+
+        .submitBtn {
+          display: block;
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 1.2;
+          font-family: Poppins, sans-serif;
+          text-transform: uppercase;
+          text-decoration: none;
+          letter-spacing: 1px;
+          padding: 7px 20px;
+        }
+      }
+
+
+      @media screen and (max-width: 800px) {
+        .contactsForm {
+          width: 80%;
+        }
+      }
+    }
+
+
+    @media screen and (min-width: 1280px) {
+      .wrapperContacts {
+        width: 50%;
+      }
+    }
+  }
+}
